@@ -1,23 +1,80 @@
-# Next.js + Tailwind CSS Example
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="components" />
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+&#xa0;
 
-## Deploy your own
+</div>
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+<h1 align="center">Next dark mode</h1>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+<p align="center">
+  
 
-## How to use
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/DiogoRocha10/next-toggle-themes?color=56BEB8">
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DiogoRocha10/next-toggle-themes?color=56BEB8">
+
+ 
+
+</p>
+
+<Status>
+
+
+<hr> 
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/DiogoRocha10" target="_blank">Author</a>
+</p>
+
+<br>
+
+## :dart: About
+
+Project used to create next page example
+
+## :rocket: Technologies
+
+The following tools were used in this project:
+
+- [Next](https://nextjs.org/)
+- [Tailwind](https://tailwindcss.com/)
+
+
+## :white_check_mark: Requirements
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+
+## :checkered_flag: Starting
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
+# Clone this project
+$ git clone https://github.com/DiogoRocha10/next-toggle-themes
+
+# Access
+$ cd next-toggle-themes
+
+# Install dependencies
+$ npm install
+
+# Run the project
+$ npm run dev
+
+# The server will initialize in the <http://localhost:3000>
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## :memo: License
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+
+Made with :heart: by <a href="https://github.com/DiogoRocha10" target="_blank">Diogo</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
+
